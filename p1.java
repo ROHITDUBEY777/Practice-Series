@@ -1,5 +1,5 @@
 package daily_questions;
-
+// this is a code to check for prime numbers within  a sepcific range
 import java.util.Scanner;
 
 public class p1 {
